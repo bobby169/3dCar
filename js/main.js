@@ -5910,7 +5910,7 @@ function init() {
 
 
     var loader = new THREE.FBXLoader( manager );
-    var fbxSrc = /github\.io/.test(location.href) ? 'https://raw.githubusercontent.com/bobby169/3dcar/master/R9V43.fbx' ? 'R9v43.fbx';
+    var fbxSrc = /github\.io/.test(location.href) ? 'https://raw.githubusercontent.com/bobby169/3dcar/master/R9V43.fbx' : 'R9v43.fbx';
     loader.load( fbxSrc, function( object ) {
         //目前解析这个模型要花大约2.5秒
         console.info('parseOK!');
