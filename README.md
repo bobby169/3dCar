@@ -6,6 +6,6 @@
 
 ## 手机扫码
 
-![image](https://raw.githubusercontent.com/bobby169/3dCar/master/img/qrcode.jpg?v=2)
+![image](https://raw.githubusercontent.com/bobby169/3dCar/master/img/qrcode.jpg?v=3)
 
 ## License MIT
