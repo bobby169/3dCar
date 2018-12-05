@@ -6,4 +6,4 @@
 
 ## 手机扫码
 
-![image](https://raw.githubusercontent.com/bobby169/3dcar/master/img/qrcode.jpg)
+![image](https://raw.githubusercontent.com/bobby169/3dcar/master/img/qrcode.jpg?v=1)
